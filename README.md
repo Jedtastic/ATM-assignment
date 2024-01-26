@@ -1,2 +1,5 @@
-ICS 3U1 assignment 
-Im making an ATM where i set a pin
+ICS 3U1 ATM assignment
+set Pin
+deposit money
+withdraw money
+see bank balance
